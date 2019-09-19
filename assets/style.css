@@ -74,7 +74,7 @@ h1 {
     color:black;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
     .container{
         height:640px;
         margin-bottom:20px;
