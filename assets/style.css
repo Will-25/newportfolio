@@ -4,9 +4,9 @@ body {
     background-image: url("./images/Konachan.com\ -\ 118886\ sample.jpg");
 }
 
-
-
-
+.container, .container2 {
+    border-radius: 10px;
+}
 
 #container {
     background-color:white;
