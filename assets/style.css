@@ -12,8 +12,50 @@ body {
 #container {
     background-color:white;
     margin-top:130px;
-    height:360px;
+    height:350px;
     text-align: center;
+}
+
+.technical {
+    font-size: 25px;
+}
+
+#containerSkills {
+    background-color:white;
+    margin-top:130px;
+    height:350px;
+    text-align: center;
+}
+.js {
+    margin-top: 10px;
+    height: 90px;
+    width: 77px;
+}
+.vector {
+    margin-top: 10px;
+    height: 90px;
+    width: 70px;
+}
+.vectorReact {
+    margin-top: 25px;
+    height: 75px;
+    width: 85px;
+}
+
+.vectorNode {
+    margin-top: 30px;
+    height: 60px;
+    width: 95px;
+}
+
+.vectorSQL {
+    margin-top: 10px;
+    height: 95px;
+    width: 85px;
+}
+
+.indexPage {
+    margin:auto;
 }
 
 #container2 {
@@ -61,7 +103,7 @@ h1 {
 }
 
 .contact {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 
@@ -87,15 +129,23 @@ a:link, a:visited {
     color:black;
     text-decoration: none;
 }
-
 @media only screen and (max-width: 450px) {
-    #container{
+#container{
         width:100%;
         height:610px;
         margin-bottom:20px;
-        margin-top:80px;
+        margin-top:40px;
         
     }
+    .vector {
+        margin-top:18px;
+    }
+#containerSkills {
+    margin-top: 0px;
+    margin-bottom: 25px;
+    height: 650px;
+    width: 80%;
+}
 .pic {
     width: 200px;
     height: 200px;
@@ -103,33 +153,33 @@ a:link, a:visited {
 .pictureDiv {
     margin-bottom: 10px;
 }
-    h1 {
+h1 {
         font-size:30px;
         margin-left:30px;
     }
-    .contact {
+.contact {
         font-size:15px;
         text-decoration: none;
     }
-    .footer {
+.footer {
         display:none;
     }
-    .nav-link {
+.nav-link {
         font-size:10px;
     }
-    #text {
+#text {
         font-size:15px;
     }
-    #will {
+#will {
         font-size:30px;
     }
-    .pic {
+.pic {
         margin-left: 30px
     }
-    .navbar {
+.navbar {
         height:135px;
     }
-    #container2 {
+#container2 {
         width:80%;
         height:1200px;
         margin-left:35px;
@@ -137,7 +187,7 @@ a:link, a:visited {
         margin-top:20px;
         margin-bottom:20px;
         }
-    body {
+body {
         background-size: 2500px;
     }
   }
