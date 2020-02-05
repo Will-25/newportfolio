@@ -82,6 +82,7 @@ h1 {
 .pics {
     height:200px;
     width:200px;
+    margin-bottom: 5px;
 }
 
 #text {
@@ -150,7 +151,7 @@ a:link, a:visited {
 #containerSkills {
     margin-top: 0px;
     margin-bottom: 25px;
-    height: 650px;
+    height: 660px;
     width: 63%;
 }
 .pic {
@@ -188,12 +189,12 @@ h1 {
     }
 #container2 {
         width:80%;
-        height:1670px;
-        margin-left:23px;
+        height:1685px;
+        margin-left:38px;
         padding-left:20px;
         margin-top:10px;
         }
 body {
-        background-size:1700px 1800px;
+        background-size:1800px 1800px;
     }
   }
