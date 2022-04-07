@@ -1,18 +1,18 @@
 body {
     background-repeat:no-repeat;
-    background-size:2100px;
-    background-image: url("./images/Konachan.com\ -\ 118886\ sample.jpg");
-    font-family: 'Calistoga', cursive;
+    background-size:1800px;
+    background-image: url("./images/city_night_city_coast_179489_3840x2160.jpg");
+    font-family: 'Archivo Black', sans-serif;
 }
 
 .container, .container2 {
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 #container {
     background-color:white;
-    margin-top:130px;
-    height:370px;
+    margin-top:100px;
+    height:385px;
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ body {
 
 #containerSkills {
     background-color:white;
-    margin-top:130px;
+    margin-top:100px;
     height:350px;
     text-align: center;
 }
@@ -43,13 +43,13 @@ body {
 }
 
 .vectorNode {
-    margin-top: 30px;
+    margin-top: 20px;
     height: 60px;
     width: 95px;
 }
 
 .vectorSQL {
-    margin-top: 10px;
+    margin-top: 8px;
     height: 95px;
     width: 85px;
 }
@@ -96,6 +96,7 @@ h1 {
 }
 .row3 {
     margin-top:20px;
+    margin-right: 20px;
 }
 #will {
     text-decoration: none;
