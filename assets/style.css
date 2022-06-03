@@ -2,7 +2,7 @@ body {
     background-repeat:no-repeat;
     background-size:1800px;
     background-image: url("./images/city_night_city_coast_179489_3840x2160.jpg");
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Secular One', sans-serif;
 }
 
 .container, .container2 {
@@ -12,7 +12,7 @@ body {
 #container {
     background-color:white;
     margin-top:100px;
-    height:385px;
+    height:418px;
     text-align: center;
 }
 
@@ -23,7 +23,8 @@ body {
 #containerSkills {
     background-color:white;
     margin-top:100px;
-    height:350px;
+    padding-top:10px;
+    height:370px;
     text-align: center;
 }
 .js {
@@ -64,8 +65,8 @@ body {
     width: 500px;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding: 10px;
-    padding-left:25px;
+    padding-top:20px;
+    padding-left:10px;
 }
 
 h1 {
